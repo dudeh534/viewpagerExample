@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-0cfee91f7ac929aadfe9b7790d4f0b5f28f14dec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Youngdo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-047e5ed01d4d2f7e8685bdb1dabb6e21a6f1570f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\pre-dexed\debug\classes-a584c924ceceee521e7a5d08921f4b58ba8cdc92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\pre-dexed\debug\classes-9ec396f8162e707ff486d956780069d6f6dd63d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\Youngdo\AndroidStudioProjects\ViewpagerExample\app\build\intermediates\pre-dexed\debug\classes-5bae7789b9159cae26727527ae832c858e9f7a61.jar" />
+    </item>
+
+</items>
